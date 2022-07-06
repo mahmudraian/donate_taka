@@ -72,3 +72,15 @@ body{
 
 
 }
+.scondbutton{
+    padding-top: 10%;
+    padding-left: 30%;
+    padding-right: 30%;
+    
+}
+
+.lowfont{
+    font-weight: 10;
+    border-bottom: solid 1px;
+    
+}
