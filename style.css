@@ -27,6 +27,7 @@ body{
 }
 .cover{
     background-image: url(images/donation7.jpg);
+    background-image: -moz-linear-gradient(To bottom, red yellow);
     width: 100%;
     height: 100%;
     margin: 0%;
