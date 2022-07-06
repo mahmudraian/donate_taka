@@ -1,0 +1,74 @@
+body{
+    
+    
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.top-banner image{
+    display: flax;
+
+}
+.High-Note{
+    font-size: 50px;
+    color:antiquewhite;
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.short-note{
+    font-size: 20px;
+    color: aqua;
+    text-align: center;
+}
+.cover{
+    background-image: url(images/donation7.jpg);
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding-bottom: 120px;
+    
+}
+
+.link-button{
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange,red );
+    padding: 10px 10px;
+    color: aqua;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 0% auto;
+    
+ }
+ .top-banner{text-align: center;}
+ .High-2Note{
+    color: black;
+    text-align: center;
+ }
+ .short-2note{
+    color: black;
+    text-align: center;
+ }
+
+ .box-taka{
+    background-color: rgb(88, 182, 92);
+    margin: 1px;
+    border: 2px red;
+    padding: 20px;
+ }
+.gape{
+    padding: 20px;
+
+
+}
+.duinumber{
+
+   padding-top: 60px;
+}
+.ditiyopage{
+    text-align: center;
+
+
+
+}
